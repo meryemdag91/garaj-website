@@ -14,8 +14,8 @@ Open `http://localhost:8080`.
 
 ## Before launch
 
-- Replace the App Store `#get` links with the published app URL.
-- Add reviewed Privacy, Terms, and Support pages and update the footer links.
-- Connect the domain to the chosen static host after the GitHub repository is available.
+- Add the published App Store URL and enable the download buttons.
+- Add reviewed Privacy, Terms, and Support pages before linking them in the footer.
+- Point `garaj-app.com` to the hosting service in GoDaddy DNS.
 
 The layout, copy, logo, and fonts came from the supplied landing page export. The page requires no build step or package install.
